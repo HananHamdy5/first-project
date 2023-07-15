@@ -1,0 +1,29 @@
+body{
+background-image: url(https://i.pinimg.com/236x/25/ff/16/25ff160d5b18a089fe3998696f7456e7.jpg);
+background-repeat: repeat-x;
+opacity: .7;
+font-style: italic;
+padding-top: 60px;
+}
+
+div{
+   
+    border-style: solid;
+    background-color: rgb(1, 107, 95);
+    width: 500px;
+    height: 700px; 
+
+
+
+}
+
+h1{
+    color: rgb(10, 11, 11);
+    text-align: center;
+}
+
+
+#sub{
+    background-image: linear-gradient(to left, rgb(35, 171, 165),rgba(30, 90, 81, 0.937));
+    color: rgb(255, 255, 255);
+}
